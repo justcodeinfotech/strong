@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://www.pcgamefreetop.blogspot.com/
+[DOC#930]
+BASEURL=res://C:\WINDOWS\system32\shdoclc.dll/dnserror.htm
+ORIGURL=//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fgame.world.13&width=300&height=258&colorscheme=light&show_faces=true&header=false&stream=false&show_border=false
+[InternetShortcut]
+URL=http://www.pcgamefreetop.blogspot.com/
+Modified=00BDE3727C39D00198
+IconFile=http://www.pcgamefreetop.blogspot.com/favicon.ico
+IconIndex=1
